@@ -154,10 +154,87 @@ padding: 0 0 4.5rem 0;
    background-color: black ;
 }
 
+.section-heading{
+  padding: 4%;
+  padding-top: 100px;
+}
 
 
 
+/* Call to Action */
 
+#cta{
+  text-align: center;
+  padding: 10%;
+  padding-bottom: 5%;
+  color: white;
+  background-color: #ff4c68;
+}
+
+.cta-text{
+  font-family: 'Recursive', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+.download-btn-ap {
+  margin: 5% 3% 5% 32%;
+  text-align: left;
+  font-family: 'Montserrat-regular', sans-serif;
+}
+
+.download-btn-gg {
+  margin: 5% 39% 5% 0;
+  text-align: left;
+  font-family: 'Montserrat-regular', sans-serif;
+}
+
+
+
+/* footer */
+
+
+#footer{
+  text-align: center;
+  padding: 10%;
+  background-color: #fff;
+  line-height: 2;
+}
+
+
+.footer-icon{
+  padding: 1%;
+  padding-bottom: 2%;
+}
+
+.twitter-icon:hover{
+  color: blue;
+}
+
+
+.facebook-icon{
+  color: blue;
+}
+
+.facebook-icon:hover{
+  color: #318fb5;
+}
+
+.instagram-icon{
+  color: magenta;
+}
+.instagram-icon:hover{
+  color: #b52b65;
+}
+
+.gmail-icon{
+  color: #ed6663;
+}
+
+.gmail-icon:hover{
+  color: #810000;
+}
 
 
 /* responsive css */
