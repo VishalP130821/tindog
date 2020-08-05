@@ -147,7 +147,9 @@ padding: 0 0 4.5rem 0;
 
 /* pricing */
 
-
+#pricing{
+  margin: 4% auto 6%;
+}
 
 .price-btn:hover{
    color: white;
