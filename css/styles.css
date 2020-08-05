@@ -57,6 +57,7 @@ padding: 0 0 4.5rem 0;
 
 #title {
   background-color: #ff4c68;
+  background-image: linear-gradient(to bottom right, #900d0d, #e8505b);
   text-align: left;
 }
 
@@ -117,6 +118,7 @@ padding: 0 0 4.5rem 0;
   padding: 2%;
   color: white;
   background-color: #ff4c68;
+  background-image: linear-gradient(#900d0d, #ff4c68);
 }
 
 .testimonial-text {
