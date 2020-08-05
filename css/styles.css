@@ -73,7 +73,7 @@ padding: 0 0 4.5rem 0;
 }
 
 .download-btn-gg {
-  margin: 5% 39% 5% 0;
+  margin: 5% 3% 5% 0;
   text-align: left;
   font-family: 'Montserrat-regular', sans-serif;
 }
@@ -178,13 +178,13 @@ padding: 0 0 4.5rem 0;
 }
 
 
-.download-btn-ap {
+.download-btn-ap-cta {
   margin: 5% 3% 5% 32%;
   text-align: left;
   font-family: 'Montserrat-regular', sans-serif;
 }
 
-.download-btn-gg {
+.download-btn-gg-cta {
   margin: 5% 39% 5% 0;
   text-align: left;
   font-family: 'Montserrat-regular', sans-serif;
@@ -218,7 +218,7 @@ padding: 0 0 4.5rem 0;
 }
 
 .facebook-icon:hover{
-  color: #318fb5;
+  color: #251f44;
 }
 
 .instagram-icon{
@@ -246,6 +246,7 @@ padding: 0 0 4.5rem 0;
    }
 
 
+
     .phone-img {
       position: static;
       transform: rotate(0);
@@ -253,3 +254,17 @@ padding: 0 0 4.5rem 0;
 
 
 }
+
+
+@media (max-width: 1426px){
+
+  .download-btn-ap-cta{
+    margin-left: 19.221%;
+  }
+
+ .download-btn-gg-cta{
+   margin-left: 1.001%;
+ }
+
+}
+
