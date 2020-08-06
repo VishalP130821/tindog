@@ -173,6 +173,7 @@ padding: 0 0 4.5rem 0;
   padding-bottom: 5%;
   color: white;
   background-color: #ff4c68;
+  background-image: linear-gradient(to bottom right, #cf1b1b, #ff4c68);
 }
 
 .cta-text{
