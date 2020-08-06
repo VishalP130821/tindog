@@ -242,14 +242,6 @@ padding: 0 0 4.5rem 0;
 }
 
 
-.linkedin-icon{
-  color: #318fb5;
-}
-
-.linkedin-icon:hover{
-  color: blue;
-}
-
 .web-link:hover{
   opacity: 0.7;
 }
