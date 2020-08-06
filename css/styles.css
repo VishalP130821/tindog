@@ -242,6 +242,17 @@ padding: 0 0 4.5rem 0;
 }
 
 
+.web-link:hover{
+  opacity: 0.8;
+}
+
+.web-image{
+  width: 1.5%;
+  height: 1.5%;
+}
+
+
+
 /* responsive css */
 
 @media (max-width: 1028px) {
